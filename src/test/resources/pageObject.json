@@ -1,0 +1,17 @@
+[
+  {
+    "elementName": "Email or Phone",
+    "locateUsing": "id",
+    "locator": "username"
+  },
+  {
+    "elementName": "Password",
+    "locateUsing": "id",
+    "locator": "password"
+  },
+  {
+    "elementName": "Sign in",
+    "locateUsing": "xpath",
+    "locator": "//*[text()='Sign in']"
+  }
+]
